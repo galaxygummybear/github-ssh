@@ -11,4 +11,4 @@ Now you can clone any repo using the ssh clone. e.g: `git@github.com:khushaalan-
 ## Step 5
 You can work add, commit and push as usual.
 
-Written by @galaxygummybear
+Written by @galaxygummybear.
